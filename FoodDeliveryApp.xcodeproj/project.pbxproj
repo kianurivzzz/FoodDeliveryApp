@@ -24,6 +24,9 @@
 		49D9A2072BC192740028C582 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49D9A20A2BC192740028C582 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49D9A20C2BC192740028C582 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49D9A2122BC1928F0028C582 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		49D9A2132BC192F70028C582 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		49D9A2142BC193290028C582 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +43,9 @@
 		49D9A1F22BC192730028C582 = {
 			isa = PBXGroup;
 			children = (
+				49D9A2142BC193290028C582 /* .gitignore */,
+				49D9A2132BC192F70028C582 /* LICENSE */,
+				49D9A2122BC1928F0028C582 /* README.md */,
 				49D9A1FD2BC192730028C582 /* FoodDeliveryApp */,
 				49D9A1FC2BC192730028C582 /* Products */,
 			);
